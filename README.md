@@ -103,7 +103,7 @@ How super() and @Override work internally
 
 Atul Yadav
 🎓 B.Tech Student | 📘 Java Learner | ✍️ Published Writer on Amazon
-📺 YouTube Channel – Lekhakbabu
+📺 YouTube Channel – Lekhak_babu
 
 🌱 Focused on self-growth, literature, and meaningful learning.
 </h1>
